@@ -1,5 +1,7 @@
 [NETFLİX]
 
+NOT:Program çalıştırılırken iconlara dikkat edilmelidir!!!
+
 *********PROJE ÖZETİ*********
 
 >Bu proje serverda kurulu olan 5 farklı mysql tablosundan okuma yapıp JSON formatında değişkenlerde tutar 
